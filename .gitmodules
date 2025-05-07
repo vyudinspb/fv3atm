@@ -1,30 +1,15 @@
 [submodule "atmos_cubed_sphere"]
    path = atmos_cubed_sphere
-   url = https://github.com/KevinViner-NOAA/GFDL_atmos_cubed_sphere
-   branch = wamhr4_grav
-#   branch = wamhr3
-#   branch = wam2ck
-#  url = https://github.com/KevinViner-NOAA/GFDL_atmos_cubed_sphere
-#  branch = wam2c
-#  url = https://github.com/WChen-NOAA/GFDL_atmos_cubed_sphere
-#  branch = wamlocaldev
-#  url = https://github.com/KevinViner-NOAA/GFDL_atmos_cubed_sphere
-#  branch = wam2_dev
-#  url = https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere
-#  branch = dev/emc
+   url = https://github.com/SvetlanaKarol-NOAA/GFDL_atmos_cubed_sphere
+   branch = ufs-wamv1
 [submodule "ccpp/framework"]
   path = ccpp/framework
   url = https://github.com/NCAR/ccpp-framework
   branch = main
 [submodule "ccpp/physics"]
   path = ccpp/physics
-  url = https://github.com/WChen-NOAA/ccpp-physics
-  branch = wamhr4
-#branch = wamhr3
-#  branch = wamlocaldev
-#  branch = wam2c
-#  url = https://github.com/ufs-community/ccpp-physics
-#  branch = ufs/dev
+  url = https://github.com/SvetlanaKarol-NOAA/ccpp-physics
+  branch = ufs-wamv1
 [submodule "upp"]
   path = upp
   url = https://github.com/NOAA-EMC/UPP
