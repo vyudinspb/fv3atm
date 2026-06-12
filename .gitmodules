@@ -1,7 +1,7 @@
 [submodule "atmos_cubed_sphere"]
    path = atmos_cubed_sphere
    url = https://github.com/vyudinspb/GFDL_atmos_cubed_sphere
-   branch = ufswam_swo
+   branch = ufswam_he4
 [submodule "ccpp/framework"]
   path = ccpp/framework
   url = https://github.com/NCAR/ccpp-framework
@@ -9,7 +9,7 @@
 [submodule "ccpp/physics"]
   path = ccpp/physics
   url = https://github.com/vyudinspb/ccpp-physics
-  branch = ufswam_swo
+  branch = ufswam_he4
 [submodule "upp"]
   path = upp
   url = https://github.com/NOAA-EMC/UPP
